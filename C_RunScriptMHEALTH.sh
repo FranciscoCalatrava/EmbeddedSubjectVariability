@@ -1,0 +1,10 @@
+python3 pipeline_quatity_study.py MHEALTH 1 0 cuda:0 0.0001 64 0.0001 32 0.00001 32 0.0001 0.1 0.7 0.2 201 5000
+python3 pipeline_quatity_study.py MHEALTH 2 0 cuda:0 0.0001 64 0.0001 32 0.00001 32 0.0001 0.1 0.7 0.2 201 5000
+python3 pipeline_quatity_study.py MHEALTH 3 0 cuda:0 0.0001 64 0.0001 32 0.00001 32 0.0001 0.1 0.7 0.2 201 5000
+python3 pipeline_quatity_study.py MHEALTH 4 0 cuda:0 0.0001 64 0.0001 32 0.00001 32 0.0001 0.1 0.7 0.2 201 5000
+python3 pipeline_quatity_study.py MHEALTH 5 0 cuda:0 0.0001 64 0.0001 32 0.00001 32 0.0001 0.1 0.7 0.2 201 5000
+python3 pipeline_quatity_study.py MHEALTH 6 0 cuda:0 0.0001 64 0.0001 32 0.00001 32 0.0001 0.1 0.7 0.2 201 5000
+python3 pipeline_quatity_study.py MHEALTH 7 0 cuda:0 0.0001 64 0.0001 32 0.00001 32 0.0001 0.1 0.7 0.2 201 5000
+python3 pipeline_quatity_study.py MHEALTH 8 0 cuda:0 0.0001 64 0.0001 32 0.00001 32 0.0001 0.1 0.7 0.2 201 5000
+python3 pipeline_quatity_study.py MHEALTH 9 0 cuda:0 0.0001 64 0.0001 32 0.00001 32 0.0001 0.1 0.7 0.2 201 5000
+python3 pipeline_quatity_study.py MHEALTH 10 0 cuda:0 0.0001 64 0.0001 32 0.00001 32 0.0001 0.1 0.7 0.2 201 5000
